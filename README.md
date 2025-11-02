@@ -1,6 +1,6 @@
 ## Website deployed at
 
-https://tria-assignment-cx9dulojf-shivtejghatages-projects.vercel.app/
+https://tria-assignment-phi.vercel.app/
 
 ## Features
 

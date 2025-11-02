@@ -1,3 +1,7 @@
+## Website deployed at
+
+https://tria-assignment-cx9dulojf-shivtejghatages-projects.vercel.app/
+
 ## Features
 
 View contact list with all contacts displayed in cards
@@ -15,7 +19,6 @@ npm install
 npm run dev
 
 Open http://localhost:5173 in your browser.
-
 
 ## Libraries Used
 
